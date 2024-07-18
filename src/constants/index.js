@@ -32,7 +32,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Borivali(East)Mumbai:400066 ",
+  address: "Borivali (East) Mumbai:400066 ",
   phoneNo: "+91 9768527310",
   email: "yashgupta.dev21@gmail.com",
 };
